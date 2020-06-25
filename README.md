@@ -1,4 +1,7 @@
 # PutridParrot.DataAnnotations
+
+[![Build status](https://ci.appveyor.com/api/projects/status/re79dtrncyo4ujug?svg=true)](https://ci.appveyor.com/project/putridparrot/putridparrot-dataannotations)
+
 Various extensions for use with data annotation/validation attribute.
 
 ## ExpectedAttribute
